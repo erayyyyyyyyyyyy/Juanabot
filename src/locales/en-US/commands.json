@@ -1,0 +1,56 @@
+{
+    "help": {
+        "name": "help",
+        "description": "Sends user of the specified user."
+    }, 
+    "ban": {
+        "name": "ban",
+        "description": "Ban Anyone You Want."
+    },
+    "stats": {
+        "name": "stats",
+        "description": "Shows bot's stats"
+    },
+    "unban": {
+        "name": "unban",
+        "description": "Unbans the User You Want"
+    },
+    "info": {
+        "name": "info"
+    },
+    "avatar": {
+        "name": "avatar",
+        "description": "Sends avatar of the specified user.",
+        "user_option": {
+            "name": "user",
+            "description": "Please specify a user."
+        },
+        "user_avatar": "Avatar of {{user}}"
+    },
+    "clear": {
+        "name": "clear",
+        "description": "Deletes messages sent to a channel.",
+        "number_option": {
+            "name": "number",
+            "description": "Please specify a number."
+        },
+        "messages_deleted": "<:Verified:1038745883430363197> | {{number}} messages deleted."
+    },
+    "suggestion": {
+        "name": "suggestion",
+        "description": "Sends the suggestion you specified to the bot developer.",
+        "success_title": "Thank You For Your Suggestion!",
+        "success_description": "Your suggestion has been sent to the bot developer.",
+        "modal": {
+            "title": "Suggestion",
+            "title_input": {
+                "label": "Title",
+                "placeholder": "Type a title for your suggestion."
+            },
+            "details_input": {
+                "label": "Details",
+                "placeholder": "Type details for your suggestion."
+            }
+        }
+    }
+}
