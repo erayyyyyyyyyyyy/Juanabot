@@ -1,0 +1,6 @@
+{
+    "cooldown_error": "<:kilit:1027883795065614347> | You need to wait `{{cooldown}}` seconds to use this command again!",
+    "unexpected_error": "<:soruisareti:1027883781014687744> | An error occurred while using this command!",
+    "username": "User name",
+    "roles": "Roles"
+}
